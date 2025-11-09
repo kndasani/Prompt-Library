@@ -4,7 +4,9 @@ Look me up here: https://www.linkedin.com/in/kartik-dasani-87156917/
 
 This is my personal prompt library.
 The folder structure is as follows:
+```
 Prompt-Library
   |__Prototyping prompts
   |__SWOT analysis prompts
   |__...
+```
