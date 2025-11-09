@@ -1,0 +1,7 @@
+Actual Prompt:
+I’m a product manager trying to a comparative study of competitors of ServiceNow w.r.t admin experience especially for business applications like project and demand management and agile and strategic planning. Perform a full SWOT analysis on ServiceNow operating in US, EU and APAC regions. Provide 5 to 7 concise bullet points each for Strengths, Weaknesses, Opportunities, and Threats, including an evidence-based rationale in one sentence under each point. Conclude with a 150-word executive summary that synthesizes all four quadrants and highlights the most critical factor in each. I want you to understand areas where ServiceNow is doing poorly and create a plan to tackle those weaknesses.
+
+Template:
+<Who are you and what are you trying to achieve?>. Perform a full SWOT analysis on <Company name> operating in <Regions/Markets/etc>. Provide 5 to 7 concise bullet points each for Strengths, Weaknesses, Opportunities, and Threats, including an evidence-based rationale in one sentence under each point. Conclude with a 150-word executive summary that synthesizes all four quadrants and highlights the most critical factor in each. I want you to <What is your goal?>.
+
+Source of the prompt: https://medium.com/@slakhyani20/10-chatgpt-prompts-for-swot-analysis-05b31bcb2ea4
