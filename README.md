@@ -6,6 +6,7 @@ This is my personal prompt library.
 The folder structure is as follows:
 ```
 Prompt-Library
+  |__Competitor Analysis
   |__Prototyping prompts
   |__SWOT analysis prompts
   |__...
