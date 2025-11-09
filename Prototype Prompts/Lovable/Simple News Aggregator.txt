@@ -1,0 +1,16 @@
+The prompt:
+
+First prompt: I want to create a new story summarizer that has a simple interface for users to search for news articles and summarize the news article in 10 points or less. The interface should be simple with a search bar and recent searches shown below the search bar. 
+
+Next ask: Can we please add a dark mode and a toggle for the same? Also make it responsive so that it works on all screen sizes.
+
+//This ask took a few tries for lovalble to finish. I had to provide specific instructions on what changes should be done.
+Next ask: Add a way for the user to clear the search bar. 
+
+//I had to ask lovable to just use OpenAI for everything at the end because the other techniques were just not working.
+Final ask: Connect to an actual news api and generative ai api so that the search and summarization functionality works.
+
+//Final result: https://preview--news-bite-digest.lovable.app/
+
+
+
